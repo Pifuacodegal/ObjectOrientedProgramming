@@ -24,6 +24,7 @@ print(age)
 
 
 #Create a function for the User class that prints a user's location
+#Print the User's location using this function
 class User:
      def __init__(User, location):
           User.location=location
